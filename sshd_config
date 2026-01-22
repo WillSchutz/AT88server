@@ -1,4 +1,4 @@
- Autor: William Serrano
+# Autor: William Serrano
 # Data de criação: 18/01/2026
 # Data de atualização: 21/01/2026
 # Versão: 0.01
@@ -68,13 +68,13 @@ PermitRootLogin no
 #
 # Usuários que tem permissão de acesso remoto ao Servidor de OpenSSH, separados por 
 # espaço, deve existir no servidor. Usuários listados no arquivo /etc/passwd
-AllowUsers vaamonde
+AllowUsers atelie86
 #
 # Grupos que tem permissão de acesso remoto ao Servidor de OpenSSH, cuidado, se você 
 # usar a variável AllowUsers o grupo padrão do usuário precisa está liberado na linha 
 # AllowGroups, separados por espaço, deve existir no servidor. Grupos listados no 
 # arquivo /etc/group
-AllowGroups vaamonde
+AllowGroups atelie86
 #
 # Usuários que não tem permissão de acesso remoto ao Servidor de OpenSSH, separados 
 # por espaço, deve existir no servidor. Usuários listados no arquivo /etc/passwd
